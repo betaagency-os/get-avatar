@@ -1,0 +1,31 @@
+{
+  "name": "get-avatar",
+  "version": "0.0.1",
+  "description": "Fetch profile picture from different social engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:betaagency-os/get-avatar.git"
+  },
+  "author": "Aleksej Kamynin <zendzirou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betaagency-os/get-avatar/issues"
+  },
+  "keywords": [
+    "avatar",
+    "picture",
+    "vk",
+    "vkontakte",
+    "fb",
+    "facebook"
+  ],
+  "homepage": "https://github.com/betaagency-os/get-avatar",
+  "dependencies": {
+    "request": "*",
+    "debug": "*"
+  }
+}
